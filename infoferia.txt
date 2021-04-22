@@ -1,0 +1,38 @@
+* commit 92d29fb218e88d3df13d3348a27aae9fc41c688e (HEAD -> master, maseri420/master)
+| Author: jesus <manue@cesur.com>
+| Date:   Thu Apr 22 09:10:23 2021 +0200
+| 
+|     cambios comida y lista sosios
+| 
+* commit f2a7607f92b2fdc4df9c91b3e3069988259a07d9 (cocina_caseta)
+| Author: jesus <manue@cesur.com>
+| Date:   Thu Apr 22 08:54:33 2021 +0200
+| 
+|     modificamos comida
+| 
+* commit 8a9646ddad9ef69284a4738792468abf1ac1201d
+| Author: jesus <manue@cesur.com>
+| Date:   Thu Apr 22 08:52:48 2021 +0200
+| 
+|     añadimos comida
+| 
+* commit df968a1c4b2036806bd508dba3ccf69d1af7b1ed
+| Author: jesus <manue@cesur.com>
+| Date:   Thu Apr 22 08:50:25 2021 +0200
+| 
+|     precios
+| 
+* commit 99d67aec024e528da0782e9947489a5109e69d11
+  Author: jesus <manue@cesur.com>
+  Date:   Thu Apr 22 08:49:45 2021 +0200
+  
+      primeros socios
+92d29fb HEAD@{0}: commit: cambios comida y lista sosios
+f2a7607 HEAD@{1}: merge cocina_caseta: Fast-forward
+df968a1 HEAD@{2}: checkout: moving from cocina_caseta to master
+f2a7607 HEAD@{3}: checkout: moving from cocina_caseta to cocina_caseta
+f2a7607 HEAD@{4}: commit: modificamos comida
+8a9646d HEAD@{5}: commit: añadimos comida
+df968a1 HEAD@{6}: checkout: moving from master to cocina_caseta
+df968a1 HEAD@{7}: commit: precios
+99d67ae HEAD@{8}: commit (initial): primeros socios
